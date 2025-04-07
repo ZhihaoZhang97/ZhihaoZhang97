@@ -18,8 +18,8 @@
 *   💬 Ask me about: **LLMs, RAG Systems, Hugging Face Transformers, Python, PyTorch, AWS, Azure, GPU Computing.**
 *   📫 How to reach me: **zhihaozhang97@outlook.com** | [**LinkedIn**](https://www.linkedin.com/in/zhihao-ken-zhang/)
 *   📄 Check out my recent publication on
-  * [**BeefBot (COLING-2025 Accepted)**](https://aclanthology.org/2025.coling-demos.7/)
-  * [**RU-AI (WWW-2025 Accepted)**](https://arxiv.org/abs/2406.04906)
+  * **BeefBot: Harnessing Advanced LLM and RAG Techniques for Providing Scientific and Technology Solutions to Beef Producers** [(COLING-2025 Accepted)](https://aclanthology.org/2025.coling-demos.7/)
+  * **RU-AI: A Large Multimodal Dataset for Machine-Generated Content Detection** [(WWW-2025 Accepted)](https://arxiv.org/abs/2406.04906)
 
 ---
 
