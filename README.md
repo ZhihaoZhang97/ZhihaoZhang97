@@ -1,49 +1,60 @@
-# Hi there, I'm Zhihao Zhang! 👋
+# Hi there, I'm Zhihao (Ken) Zhang! 👋
 
-<!-- Optional: Add a cool banner image here -->
-<!-- <p align="center">
-  <img src="URL_TO_YOUR_BANNER_IMAGE" alt="Banner">
-</p> -->
-
-<!-- Introduction Section -->
-I'm a [Your Role, e.g., Software Engineer, Student, Data Scientist] passionate about [Your Interests, e.g., open source, web development, AI, cybersecurity]. I enjoy building [Types of things you build, e.g., useful tools, fun projects] and learning new technologies.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhihaozhang97&show_icons=true&include_all_commits=true&count_private=true" alt="Ken's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhihaozhang97&layout=compact&langs_count=8" alt="Ken's Top Languages" />
+  <!-- Optional Streak Stats -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhihaozhang97&theme=tokyonight" alt="Ken's Contribution Streak" /> -->
+</p>
 
 ---
 
-### 📊 My GitHub Stats
+🎓 **M.Phil in AI (NLP)** from the University of Sydney | 📍 Sydney, NSW
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhihaozhang97&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhihaozhang97&layout=compact&langs_count=8"/>
-</p>
+🚀 I'm an AI/ML Researcher and Engineer passionate about leveraging **Large Language Models (LLMs)**, **High-Performance Computing (HPC)**, and **Cloud Technologies** to solve complex problems, particularly in scientific domains.
 
-<!-- Optional: Add Contribution Streak Stats -->
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
-</p> -->
+*   🔭 Currently working as a **Research Assistant** focusing on:
+    *   Developing large foundational models and domain-specific LLMs.
+    *   Implementing statistical modeling and RAG systems for complex data analysis.
+*   👯 I’m interested in collaborating on open-source AI projects, particularly in NLP and scientific AI applications.
+*   💬 Ask me about: **LLMs, RAG Systems, Hugging Face Transformers, Python, PyTorch, AWS, Azure, GPU Computing.**
+*   📫 How to reach me: **zhihaozhang97@outlook.com** | [**LinkedIn**](https://linkedin.com/in/your-linkedin-profile-id) *(<-- Add your LinkedIn link!)*
+*   📄 Check out my recent publication on [**BeefBot (COLING-2025 Accepted)**](https://example.com/link-to-your-paper) *(<-- Optional: Add link if available)* or [**RU-AI (WWW-2025 Accepted)**](https://example.com/link-to-your-paper) *(<-- Optional: Add link if available)*.
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-<!-- Optional: Add icons for your skills -->
-<!-- Example: <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> -->
-*   **Languages:** [List Languages, e.g., Python, JavaScript, Java, C++]
-*   **Frameworks/Libraries:** [List Frameworks, e.g., React, Node.js, Django, Spring]
-*   **Databases:** [List Databases, e.g., PostgreSQL, MongoDB, MySQL]
-*   **Tools:** [List Tools, e.g., Docker, Git, VS Code, AWS]
+*   **AI & Machine Learning:**
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-%F0%9F%A4%97?style=flat-square&color=FFD21E" alt="Hugging Face"/>
+    <img src="https://img.shields.io/badge/LLMs%20&%20Generative%20AI-%23449D44.svg?style=flat-square" alt="LLMs & Generative AI"/>
+    <img src="https://img.shields.io/badge/RAG%20Systems-%2331708F.svg?style=flat-square" alt="RAG Systems"/>
+    <img src="https://img.shields.io/badge/GPU%20Computing%20(CUDA)-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white" alt="GPU Computing"/>
+    <img src="https://img.shields.io/badge/Statistical%20Modeling-%235BC0DE.svg?style=flat-square" alt="Statistical Modeling"/>
+
+*   **Cloud & Data:**
+    <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Lambda-%23FF9900.svg?style=flat-square&logo=aws-lambda&logoColor=white" alt="AWS Lambda"/>
+    <img src="https://img.shields.io/badge/S3-%23569A31.svg?style=flat-square&logo=amazon-s3&logoColor=white" alt="AWS S3"/>
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/Azure%20PostgreSQL-%230078D4.svg?style=flat-square&logo=azure-database&logoColor=white" alt="Azure PostgreSQL"/>
+    <!-- Add other Azure services if desired -->
+    <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=postgresql&logoColor=white" alt="SQL (Postgres)"/>
+    <!-- Maybe add Teradata logo if significant: https://simpleicons.org/?q=teradata -->
+    <img src="https://img.shields.io/badge/Vector%20DBs-%2300ACC1.svg?style=flat-square" alt="Vector Databases"/>
+    <img src="https://img.shields.io/badge/Big%20Data%20(Spark/Hadoop)-%23E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white" alt="Big Data"/>
+
+*   **Tools & Collaboration:**
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    <!-- Add other relevant tools like VS Code, Jupyter, etc. if desired -->
+    <!-- <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/> -->
 
 ---
 
-### CONNECT WITH ME
-
-<!-- Optional: Add social media links with icons -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <!-- Add other links like portfolio, blog, etc. -->
-</p>
-
-<!-- Footer -->
-<!-- You can leave this blank or add a closing remark -->
+<!-- Optional: Add your contribution graph if you like -->
+<!-- <p align="center">
+  <img src="https://ghchart.rshah.org/YOUR_GITHUB_USERNAME" alt="Ken's Contribution Graph" />
+</p> -->
