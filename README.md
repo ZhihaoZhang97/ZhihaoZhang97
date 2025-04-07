@@ -1,10 +1,8 @@
 # Hi there, I'm Zhihao (Ken) Zhang! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhihaozhang97&show_icons=true&include_all_commits=true&count_private=true" alt="Ken's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhihaozhang97&layout=compact&langs_count=8" alt="Ken's Top Languages" />
-  <!-- Optional Streak Stats -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhihaozhang97&theme=tokyonight" alt="Ken's Contribution Streak" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZhihaoZhang97&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhihaoZhang97&layout=compact&langs_count=8"/>
 </p>
 
 ---
@@ -18,8 +16,8 @@
     *   Implementing statistical modeling and RAG systems for complex data analysis.
 *   👯 I’m interested in collaborating on open-source AI projects, particularly in NLP and scientific AI applications.
 *   💬 Ask me about: **LLMs, RAG Systems, Hugging Face Transformers, Python, PyTorch, AWS, Azure, GPU Computing.**
-*   📫 How to reach me: **zhihaozhang97@outlook.com** | [**LinkedIn**](https://linkedin.com/in/your-linkedin-profile-id) *(<-- Add your LinkedIn link!)*
-*   📄 Check out my recent publication on [**BeefBot (COLING-2025 Accepted)**](https://example.com/link-to-your-paper) *(<-- Optional: Add link if available)* or [**RU-AI (WWW-2025 Accepted)**](https://example.com/link-to-your-paper) *(<-- Optional: Add link if available)*.
+*   📫 How to reach me: **zhihaozhang97@outlook.com** | [**LinkedIn**](https://www.linkedin.com/in/zhihao-ken-zhang/)
+*   📄 Check out my recent publication on [**BeefBot (COLING-2025 Accepted)**]([https://example.com/link-to-your-paper](https://aclanthology.org/2025.coling-demos.7/)) or [**RU-AI (WWW-2025 Accepted)**](https://arxiv.org/abs/2406.04906)
 
 ---
 
@@ -40,17 +38,14 @@
     <img src="https://img.shields.io/badge/S3-%23569A31.svg?style=flat-square&logo=amazon-s3&logoColor=white" alt="AWS S3"/>
     <img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
     <img src="https://img.shields.io/badge/Azure%20PostgreSQL-%230078D4.svg?style=flat-square&logo=azure-database&logoColor=white" alt="Azure PostgreSQL"/>
-    <!-- Add other Azure services if desired -->
     <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=postgresql&logoColor=white" alt="SQL (Postgres)"/>
-    <!-- Maybe add Teradata logo if significant: https://simpleicons.org/?q=teradata -->
     <img src="https://img.shields.io/badge/Vector%20DBs-%2300ACC1.svg?style=flat-square" alt="Vector Databases"/>
     <img src="https://img.shields.io/badge/Big%20Data%20(Spark/Hadoop)-%23E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white" alt="Big Data"/>
 
 *   **Tools & Collaboration:**
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-    <!-- Add other relevant tools like VS Code, Jupyter, etc. if desired -->
-    <!-- <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/> -->
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 
 ---
 
