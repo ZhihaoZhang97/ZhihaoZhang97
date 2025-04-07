@@ -17,7 +17,9 @@
 *   👯 I’m interested in collaborating on open-source AI projects, particularly in NLP and scientific AI applications.
 *   💬 Ask me about: **LLMs, RAG Systems, Hugging Face Transformers, Python, PyTorch, AWS, Azure, GPU Computing.**
 *   📫 How to reach me: **zhihaozhang97@outlook.com** | [**LinkedIn**](https://www.linkedin.com/in/zhihao-ken-zhang/)
-*   📄 Check out my recent publication on [**BeefBot (COLING-2025 Accepted)**](https://example.com/link-to-your-paper](https://aclanthology.org/2025.coling-demos.7/) or [**RU-AI (WWW-2025 Accepted)**](https://arxiv.org/abs/2406.04906)
+*   📄 Check out my recent publication on
+  * [**BeefBot (COLING-2025 Accepted)**](https://aclanthology.org/2025.coling-demos.7/)
+  * [**RU-AI (WWW-2025 Accepted)**](https://arxiv.org/abs/2406.04906)
 
 ---
 
