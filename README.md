@@ -1,10 +1,5 @@
 # Hi there, I'm Zhihao (Ken) Zhang! 👋
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ZhihaoZhang97&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhihaoZhang97&layout=compact&langs_count=8"/>
-</p>
-
 ---
 
 🎓 **M.Phil in AI (NLP)** from the University of Sydney | 📍 Sydney, NSW
