@@ -1,6 +1,4 @@
-# Hi there, I'm Zhihao (Ken) Zhang! 👋
-
----
+# Hi there, I'm Zhihao (Kenneth) Zhang! 👋
 
 🎓 **M.Phil in AI (NLP)** from the University of Sydney | 📍 Sydney, NSW
 
