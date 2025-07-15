@@ -1,5 +1,7 @@
 # Hi there, I'm Zhihao (Ken) Zhang! 👋
+
 ---
+
 🎓 **M.Phil in AI (NLP)** from the University of Sydney | 📍 Sydney, NSW
 
 🚀 I'm an AI/ML Researcher and Engineer passionate about leveraging **Large Language Models (LLMs)**, **High-Performance Computing (HPC)**, and **Cloud Technologies** to solve complex problems, particularly in scientific domains.
