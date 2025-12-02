@@ -15,7 +15,7 @@
     [(COLING-2025 Accepted)](https://aclanthology.org/2025.coling-demos.7/)
     * **RU-AI: A Large Multimodal Dataset for Machine-Generated Content Detection**
     [(WWW-2025 Accepted)](https://dl.acm.org/doi/10.1145/3701716.3715306)
-    * **From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation** [(EMNLP-2025 Accepted)](https://arxiv.org/abs/2505.18685)
+    * **From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation** [(EMNLP-2025 Accepted)](https://aclanthology.org/2025.findings-emnlp.1316/)
 ---
 
 ### 🛠️ Technologies & Tools
