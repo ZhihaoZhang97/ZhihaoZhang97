@@ -4,7 +4,7 @@
 
 🚀 I'm an AI/ML Researcher and Engineer passionate about leveraging **Large Language Models (LLMs)**, **High-Performance Computing (HPC)**, and **Cloud Technologies** to solve complex problems, particularly in scientific domains.
 
-*   🔭 Currently working as an **AI/ML Research Engineer** focusing on:
+*   🔭 Currently working as an **AI/ML Research Engineer** at UNSW focusing on:
     *   Developing large foundational models and domain-specific LLMs.
     *   Implementing statistical modeling and RAG systems for complex data analysis.
 *   👯 I’m interested in collaborating on open-source AI projects, particularly in NLP and scientific AI applications.
