@@ -34,7 +34,6 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-%230078D4.svg?style=flat-square&logo=msazure&logoColor=white" alt="Azure"/>
     <img src="https://img.shields.io/badge/PostgreSQL-%234479A1.svg?style=flat-square&logo=postgresql&logoColor=white" alt="SQL (Postgres)"/>
     <img src="https://img.shields.io/badge/Vector%20DBs-%2300ACC1.svg?style=flat-square" alt="Vector Databases"/>
-    <img src="https://img.shields.io/badge/Big%20Data%20(Spark/Hadoop)-%23E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white" alt="Big Data"/>
 
 *   **Tools & Collaboration:**
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
