@@ -10,12 +10,13 @@
 *   👯 I’m interested in collaborating on open-source AI projects, particularly in NLP and scientific AI applications.
 *   💬 Ask me about: **LLMs, RAG Systems, Hugging Face Transformers, Python, PyTorch, AWS, Azure, GPU Computing.**
 *   📫 How to reach me: **zhihaozhang97@outlook.com** | [**LinkedIn**](https://www.linkedin.com/in/zhihao-ken-zhang/)
-*   📄 Check out my recent publication on
-    * **BeefBot: Harnessing Advanced LLM and RAG Techniques for Providing Scientific and Technology Solutions to Beef Producers**
-    [(COLING-2025 Accepted)](https://aclanthology.org/2025.coling-demos.7/)
-    * **RU-AI: A Large Multimodal Dataset for Machine-Generated Content Detection**
-    [(WWW-2025 Accepted)](https://dl.acm.org/doi/10.1145/3701716.3715306)
-    * **From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation** [(EMNLP-2025 Accepted)](https://aclanthology.org/2025.findings-emnlp.1316/)
+*   📄 Check out my recent publications:
+    * **Health-ORSC-Bench: A Benchmark for Measuring Over-Refusal and Safety Completion in Health Context**
+    [(ACL-2026 Findings)](https://aclanthology.org/2026.findings-acl.1177/)
+    * **CheMM-R1: Enhancing Chemical Structure Recognition and Elucidation with Reasoning Multimodal Large Language Models**
+    [(ACL-2026 Findings)](https://aclanthology.org/2026.findings-acl.1341/)
+    * **From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation**
+    [(EMNLP-2025 Findings)](https://aclanthology.org/2025.findings-emnlp.1316/)
 ---
 
 ### 🛠️ Technologies & Tools
